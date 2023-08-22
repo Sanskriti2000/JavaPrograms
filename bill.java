@@ -1,7 +1,5 @@
 import java.io.*;
-import java.nio.Buffer;
-
-public record bill()
+public class bill
     {
         public static void main(String args[])throws IOException
         {
