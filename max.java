@@ -1,3 +1,4 @@
+// assigning 10 different integers in the S.D.A, and displaying the greatest number of the elements
 public class max {
     public static void main(String args[]){
         int i, max; max=0;
